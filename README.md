@@ -32,6 +32,6 @@ Aquí voy a insertar imágenes en formato .png, .jpeg, .gif y .svg de distintas 
 ![200](https://github.com/user-attachments/assets/6f1203cb-415d-432c-bfd8-0ba82ddd081e)
 ![200](https://github.com/user-attachments/assets/7c3eb2d4-4a67-4e81-8f88-cba5d1a7a8a7)
 
-![Versión](https://img.shields.io/badge/version-1.0.0-blue)
+![Verdadero amorsdkjfnsdkjfns](https://img.shields.io/badge/version-1.0.0-blue)
 
 
