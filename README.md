@@ -6,7 +6,8 @@ Estoy aprendiendo a utilizar github de la manera correcta.
 2. [Imágenes](#imágenes)
 
 
-## Estilos de texto
+### Estilos de texto
+Aquí se muestran las diferentes formas de escribir texto dentro de archivos .md (Markdown)
 - Texto normal
 * *Cursiva* _Cursiva_
 - **Negrita** __Negrita__
@@ -22,4 +23,4 @@ O fragmentos de código
 nombre=str(input("Nombre: "))
 print(f"¡Bienvenido al mundo {nombre}!")
 ```
-## Imágenes
+### Imágenes
