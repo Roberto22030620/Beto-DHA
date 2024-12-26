@@ -2,9 +2,10 @@
 ¡Hi there! 😀
 I'm learning about github.
 # Styling the letters into the README.md
+Texto normal
 **Negrita** __Negrita__
 ~~Tachado~~
 ***Mix little mix***
-<sub>Este texto está subrayado</sub>
-Este texto está normal
-
+<sub> Texto bajo </sub>
+<sub> Texto alto </sub>
+<ins> Textosubrayado </ins>
