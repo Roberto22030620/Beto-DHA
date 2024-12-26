@@ -16,3 +16,10 @@ I'm learning about github.
 * <sub> Texto bajo </sub> <sup> Texto alto </sup>
 - <ins> Textosubrayado </ins>
 * > Entrecomillado
+- Indicar código:
+  'git status'
+  '''
+  git status
+  git add .
+  git commit
+  '''
