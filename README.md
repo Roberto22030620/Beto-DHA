@@ -1,13 +1,13 @@
 # This is to my readme profile
-¡Hi there! 😀
+¡Hi there! 😀  
 I'm learning about github.
 
 ## Tabla de contenidos
-1. [Estilos](#sub-1)
-2. [Estilos](#sub-2)
+1. [Texto](#estilos-de-texto)
+2. [Imágenes](#imágenes)
 
 
-## Sub 1
+## Estilos de texto
 - Texto normal
 * *Cursiva* _Cursiva_
 - **Negrita** __Negrita__
@@ -17,11 +17,10 @@ I'm learning about github.
 - <ins> Textosubrayado </ins>
 * > Entrecomillado
 - Indicar código:
-For only one command `git status`.<br>
-Or a lot of
+Para comandos específicos como `git status`.<br>
+O fragmentos de código
 ```
-git status
-git add
-git commit
+nombre=str(input("Nombre: "))
+print(f"¡Bienvenido al mundo {nombre}!")
 ```
-## Sub 2
+## Imágenes
