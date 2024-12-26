@@ -3,13 +3,13 @@
 I'm learning about github.
 
 ## Tabla de contenidos
-1.- [Estilos](#sub1)
+1. [Estilos](#sub1)
 2. [Estilos](#sub1)
 
 
 ## Sub 1
 Texto normal
-*Cursiva* _Cursiva_ \n
+*Cursiva* _Cursiva_
 **Negrita** __Negrita__
 ~~Tachado~~
 ***Mix little mix***
