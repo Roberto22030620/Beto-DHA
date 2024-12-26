@@ -26,6 +26,6 @@ print(f"¡Bienvenido al mundo {nombre}!")
 ### Imágenes
 Aquí voy a insertar imágenes en formato .png, .jpeg, .gif y .svg de distintas rutas.
 
-![Animación de ejemplo](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Versión](https://img.shields.io/badge/version-1.0.0-blue)
 
 
