@@ -7,5 +7,5 @@ Texto normal
 ~~Tachado~~
 ***Mix little mix***
 <sub> Texto bajo </sub>
-<sub> Texto alto </sub>
+<sup> Texto alto </sup>
 <ins> Textosubrayado </ins>
