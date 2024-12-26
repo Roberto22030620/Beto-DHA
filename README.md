@@ -17,9 +17,10 @@ I'm learning about github.
 - <ins> Textosubrayado </ins>
 * > Entrecomillado
 - Indicar código:
-  'git status'
-  '''
-  git status
-  git add .
-  git commit
-  '''
+For only one command `git status`
+Or a lot of
+```
+git status
+git add
+git commit
+```
