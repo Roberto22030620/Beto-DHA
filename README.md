@@ -9,9 +9,10 @@ I'm learning about github.
 
 ## Sub 1
 - Texto normal
-- *Cursiva* _Cursiva_
+* *Cursiva* _Cursiva_
 - **Negrita** __Negrita__
-- ~~Tachado~~
+* ~~Tachado~~
 - ***Mix little mix***
-- <sub> Texto bajo </sub> <sup> Texto alto </sup>
-* <ins> Textosubrayado </ins>
+* <sub> Texto bajo </sub> <sup> Texto alto </sup>
+- <ins> Textosubrayado </ins>
+* < Entrecomillado
