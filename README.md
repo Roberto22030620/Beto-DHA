@@ -15,4 +15,4 @@ I'm learning about github.
 - ***Mix little mix***
 * <sub> Texto bajo </sub> <sup> Texto alto </sup>
 - <ins> Textosubrayado </ins>
-* < Entrecomillado
+* > Entrecomillado
