@@ -2,5 +2,8 @@
 ¡Hi there! 😀
 I'm learning about github.
 # Styling the letters into the README.md
-**Black**
-__Black__
+**Negrita** __Negrita__
+~~Tachado~~
+***Mix little mix***
+<sub>Este texto está subrayado</sub>
+
