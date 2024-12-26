@@ -13,6 +13,5 @@ I'm learning about github.
 - **Negrita** __Negrita__
 - ~~Tachado~~
 - ***Mix little mix***
-- <sub> Texto bajo </sub>
-- <sup> Texto alto </sup>
-- <ins> Textosubrayado </ins>
+- <sub> Texto bajo </sub> <sup> Texto alto </sup>
+* <ins> Textosubrayado </ins>
