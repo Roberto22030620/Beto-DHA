@@ -8,11 +8,11 @@ I'm learning about github.
 
 
 ## Sub 1
-Texto normal
-*Cursiva* _Cursiva_
-**Negrita** __Negrita__
-~~Tachado~~
-***Mix little mix***
-<sub> Texto bajo </sub>
-<sup> Texto alto </sup>
-<ins> Textosubrayado </ins>
+- Texto normal
+- *Cursiva* _Cursiva_
+- **Negrita** __Negrita__
+- ~~Tachado~~
+- ***Mix little mix***
+- <sub> Texto bajo </sub>
+- <sup> Texto alto </sup>
+- <ins> Textosubrayado </ins>
