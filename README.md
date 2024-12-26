@@ -29,6 +29,7 @@ Aquí voy a insertar imágenes en formato .png, .jpeg, .gif y .svg de distintas 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
 
 ![Animación de ejemplo](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![image](https://github.com/user-attachments/assets/6f1203cb-415d-432c-bfd8-0ba82ddd081e)
 
 ![Versión](https://img.shields.io/badge/version-1.0.0-blue)
 
