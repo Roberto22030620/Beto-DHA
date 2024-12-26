@@ -3,7 +3,7 @@ Estoy aprendiendo a utilizar github de la manera correcta.
 
 ## Tabla de contenidos
 1. [Texto](#estilos-de-texto)
-2. [Imágenes](#rutas-de-imágenes)
+2. [Imágenes](#rutas-de-imágene)
 
 
 ### Estilos de texto
@@ -23,9 +23,8 @@ O fragmentos de código
 nombre=str(input("Nombre: "))
 print(f"¡Bienvenido al mundo {nombre}!")
 ```
-### Elementos visuales
-Aquí voy a insertar elementos visuales de distintas rutas.
+### Imágenes
+Aquí voy a insertar imágenes en formato .png, .jpeg, .gif y .svg de distintas rutas.
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
-![Animación de ejemplo](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
-![Versión](https://img.shields.io/badge/version-1.0.0-blue)
+
 
