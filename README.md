@@ -28,7 +28,7 @@ Aquí voy a insertar imágenes en formato .png, .jpeg, .gif y .svg de distintas 
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
 
-![Animación de ejemplo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrZGxnN3ZoMGE5MW5zbGZxb2k0MGdheHl6N2V5cGJwdGFwN3E1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/07YXmuBuhQYBduC6pH/giphy.gif)
+![PPPdnjfdn](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrZGxnN3ZoMGE5MW5zbGZxb2k0MGdheHl6N2V5cGJwdGFwN3E1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/07YXmuBuhQYBduC6pH/giphy.gif)
 ![200](https://github.com/user-attachments/assets/6f1203cb-415d-432c-bfd8-0ba82ddd081e)
 ![200](https://github.com/user-attachments/assets/7c3eb2d4-4a67-4e81-8f88-cba5d1a7a8a7)
 
