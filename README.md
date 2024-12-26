@@ -3,8 +3,8 @@
 I'm learning about github.
 
 ## Tabla de contenidos
-1. [Estilos](#sub 1)
-2. [Estilos](#sub 2)
+1. [Estilos](#sub-1)
+2. [Estilos](#sub-2)
 
 
 ## Sub 1
