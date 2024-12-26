@@ -1,6 +1,5 @@
 # This is to my readme profile
-¡Hi there! 😀  
-I'm learning about github.
+Estoy aprendiendo a utilizar github de la manera correcta.
 
 ## Tabla de contenidos
 1. [Texto](#estilos-de-texto)
