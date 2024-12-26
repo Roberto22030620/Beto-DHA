@@ -16,7 +16,7 @@ I'm learning about github.
 * <sub> Texto bajo </sub> <sup> Texto alto </sup>
 - <ins> Textosubrayado </ins>
 * > Entrecomillado
-- Indicar código:
+- Indicar código:  
 Para comandos específicos como `git status`.<br>
 O fragmentos de código
 ```
