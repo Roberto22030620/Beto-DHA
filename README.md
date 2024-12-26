@@ -7,7 +7,7 @@ I'm learning about github.
 2. [Estilos](#sub1)
 
 
-## Sub 1
+## Sub1
 - Texto normal
 * *Cursiva* _Cursiva_
 - **Negrita** __Negrita__
