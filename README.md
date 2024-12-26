@@ -6,4 +6,5 @@ I'm learning about github.
 ~~Tachado~~
 ***Mix little mix***
 <sub>Este texto está subrayado</sub>
+Este texto está normal
 
