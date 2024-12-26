@@ -3,11 +3,11 @@
 I'm learning about github.
 
 ## Tabla de contenidos
-1.-[Estilos de texto](#styling text)
-2. [Estilos de texto](#styling text)
+1.- [Estilos](#sub1)
+2. [Estilos](#sub1)
 
 
-## Styling text
+## Sub1
 Texto normal
 *Cursiva* _Cursiva_ \n
 **Negrita** __Negrita__
