@@ -28,8 +28,8 @@ Aquí voy a insertar imágenes en formato .png, .jpeg, .gif y .svg de distintas 
 
 ![Descripción](images/chess%20jpeg.jpg)  
 ![Descripción](images/Chess%20png.png)  
-![Descripción](images/chessgif.gif)  
-![Descripción](images/chesssvg.svg)  
+![Descripción](assets/chessgif.gif)  
+![Descripción](assets/chesssvg.svg)  
 
 ```
 #Entre los corchetes va una descripción de la imagen que solo se puede ver al editar el archivo .md
